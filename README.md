@@ -3,11 +3,14 @@
 This is a randomizer for _The Legend of Zelda: Ocarina of Time_ for the Nintendo 64.
 
 **WARNING:** This branch is a modified version of the randomizer. It is **not** officially supported and may be **very unstable**.
-Please refrain from asking questions and from reporting issues in the main Randomizer Discord when using this branch.
+Please refrain from asking questions and from reporting issues in the main Randomizer Discord when using this branch. Instead you
+may contact me via Discord (SignOfInsanity#0062) with any questions.
 
 Differences between this branch and the main dev branch (on [Roman's Fork](https://github.com/Roman971/OoT-Randomizer/tree/Dev-R)):
 * The "random keyrings" setting now rolls a 50/50 chance for each dungeon to have a keyring instead of picking a number from 0-9.
 * That's it.
+
+Everything below this line is from Roman's fork (as of 12/12/22) of which I take no credit.
 
 Differences between this branch and the main Dev branch (on [Testrunner's Fork](https://github.com/TestRunnerSRL/OoT-Randomizer/tree/Dev)):
 * Various GUI tweaks and improvements along with setting tooltip/option changes
